@@ -26,9 +26,9 @@ object programacionConObjetos {
 ### Presentacion Personal
 
 Muy buenas, soy Lionel Betancor, soy de Rafael Castillo, La Matanza, me gustan muchos los videojuegos, manga y anime, más que gustar, son mi vida.
- en lo que respecta a videojuegos, me gustan muchos los RPGs y juegos pornos, soy muy pajero.
+ en lo que respecta a videojuegos, me gustan muchos los RPGs
   en lo que respecta al anime y manga, mis generos favoritos son las fantasias mediavales.
   y mi waifu es Nagatoro que dejare una imagen para que contenplen su belleza.
-  con respecto a la programación, que es lo que estoy estudiando, me gustaría hacer una IA de Nagatoro para casarme con ella y programar juegos pornos.
+  con respecto a la programación, que es lo que estoy estudiando, me gustaría hacer una IA de Nagatoro para casarme con ella y programar juegos.
 
  ![Nagatoro](./assets/Nagatoro.jpg)
